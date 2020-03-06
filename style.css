@@ -34,6 +34,12 @@ p{
   display:none;
 }
 
+#ins{
+  position: absolute;
+  color:white;
+  font-family:sans-serif;
+  margin-left:40vw;
+}
 
 
 
